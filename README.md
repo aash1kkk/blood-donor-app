@@ -1,11 +1,12 @@
 # newproj
 
-Steps to get the  output (Same is attached in README.md of github repository)
+Steps to get the  output:
 
 •	Create a new flutter folder on vscode using  “flutter create blooddonorapp” on the terminal.
-•	Copy paste the main.dart and pubsec.yaml codes from github  onto main.dart and pubsec.yaml of the new folder.
+•	Copy paste the  main.dart  code from lib folder and pubsec.yaml code onto main.dart and pubsec.yaml of the new folder.
 •	Turn on developer mode in developer settings.
 •	Type “flutter run” on the terminal to run the code.
+
 
 
 
